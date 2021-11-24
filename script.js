@@ -1,8 +1,10 @@
-console.log('hello')
-function counter(){
+// console.log('hello')
 let a=0;    
-console.log(document.getElementById('cnt').innerHTML);
+function counter(){
+    console.log(document.getElementById('cnt').innerHTML);
 a= a+1
 document.getElementById('cnt').innerHTML= a;
+
+
 
 }
