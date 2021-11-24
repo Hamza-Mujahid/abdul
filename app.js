@@ -1,3 +1,0 @@
-let number_counter = () =>{
-
-}
